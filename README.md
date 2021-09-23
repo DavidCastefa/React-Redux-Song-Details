@@ -1,3 +1,7 @@
+# A simple song detail app using React and Redux
+The link to the live app on Netlify is [here](https://naughty-euclid-404650.netlify.app/).
+
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
